@@ -1,4 +1,9 @@
 nginx
+minio/minio:RELEASE.2021-06-17T00-10-46Z
+redis
+mongo
+mysql:8.0.25
+rabbitmq
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
