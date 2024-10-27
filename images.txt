@@ -4,3 +4,4 @@ redis
 mongo
 mysql:8.0.25
 rabbitmq
+rabbitmq:management
